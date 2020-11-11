@@ -1,3 +1,11 @@
+numpy
+catboost
+shap
+hdbscan
+scipy
+tqdm
+plotly
+jupyter
 pandas
 matplotlib
 scikit-learn
